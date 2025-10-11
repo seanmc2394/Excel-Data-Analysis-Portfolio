@@ -18,10 +18,10 @@ This project presents a professional-grade interactive Excel dashboard created f
 ## Design & User Considerations
 The dashboard was built with user intent at its core:
 - Sales Leadership: Quickly view sales growth and profitability by region and year.
-- Finance: Track profit and cost efficiency through targeted visualizations.
-- Marketing: Analyze category trends and order priorities to shape campaigns.
+- Finance: Track profit and cost efficiency through targeted visualisations.
+- Marketing: Analyse category trends and order priorities to shape campaigns.
 - Operations: Monitor quantities sold and average shipping costs for logistical insights.
-High-level KPIs are positioned at the top for instant visibility, with charts arranged to follow a logical narrative from overview → detail. The slicers and interactive menu provide a seamless user experience while maintaining workbook protection for data integrity.
+High-level KPIs are positioned at the top for instant visibility, with charts arranged to follow a logical narrative from overview to detail. The slicers and interactive menu provide a seamless user experience while maintaining workbook protection for data integrity.
 
 ## Tools Used
 - Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Conditional Formatting, Sheet Protection, Navigation Macros)
@@ -31,4 +31,4 @@ High-level KPIs are positioned at the top for instant visibility, with charts ar
 1. Open the workbook and begin on the Menu sheet.
 2. Click through to explore Pivot Tables or the Dashboard.
 3. Use slicers to filter by year, market, or category.
-4. Use the “Back to Menu” button to easily navigate between views.
+4. Use the “Menu” button to easily navigate between views.
