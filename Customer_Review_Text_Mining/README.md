@@ -8,12 +8,14 @@ This project analyses real customer feedback to find common themes and recurring
 - Transformed hotel review text in Excel into word-by-word cells and created charts to visualize word frequency and patterns.
 - Created charts and a word cloud to highlight the most common terms.
 - Built a summary showing the most mentioned terms and their relative counts.
+<br>
 
 ## Key Insights
 - Guests most often mentioned “staff,” “stay,” and “great,” suggesting strong service satisfaction.
 - Negative mentions centred around “parking” and “price.”
 - Even with basic formulas, Excel can uncover valuable sentiment and keyword insights. 
+<br>
 
 ## Tools
-- Excel: Text functions, data cleaning, charting.
-- WordItOut: Word cloud visualisation.
+- **Excel:** Text functions, data cleaning, charting.
+- **WordItOut:** Word cloud visualisation.
