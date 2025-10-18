@@ -3,7 +3,7 @@ This project analyses real customer feedback to find common themes and recurring
 <br>
 <br>
 
-## What I Did
+## What I Did 
 - Cleaned and structured unformatted text data.
 - Used Excel text formulas (LEN, SEARCH, COUNTIF, etc.) to extract and measure word frequency. !?!?!?!?
 - Built a summary showing the most mentioned terms and their relative counts.
@@ -12,7 +12,7 @@ This project analyses real customer feedback to find common themes and recurring
 ## Key Insights
 - Guests most often mentioned “staff,” “stay,” and “great,” suggesting strong service satisfaction.
 - Negative mentions centred around “parking” and “price.”
-- Even with basic formulas, Excel can uncover valuable sentiment and keyword insights.
+- Even with basic formulas, Excel can uncover valuable sentiment and keyword insights. 
 
 ## Tools
 - Excel: Text functions, data cleaning, charting.
