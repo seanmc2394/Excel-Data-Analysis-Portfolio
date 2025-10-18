@@ -5,4 +5,4 @@ This repository contains a cleaned dataset from a badly structured Excel file. T
 - **Dirty**: Original messy dataset.
 - **Clean**: My cleaned version with four columns (Segment, Ship Mode, Order ID, Sales).
 - **Temp 1, 2, 3**: Temporary sheets used during cleaning.
-- **All segments**: Intermediate step before final clean.
+- **All segments**: Intermediate step before final clean. 
