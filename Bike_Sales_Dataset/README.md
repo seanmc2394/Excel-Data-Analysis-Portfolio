@@ -15,4 +15,4 @@ This project demonstrates data visualisation and interactivity in Excel. Using P
 - Excel’s built-in tools are more powerful than most people think, it’s possible to create dashboard-style interactivity without external software like Tableau or PowerBI, though without the polish and flexibility they offer.
 
 ## Tools
-Excel: PivotTables, PivotCharts, Slicers, Dashboard Design.
+**Excel:** PivotTables, PivotCharts, Slicers, Dashboard Design.
