@@ -8,11 +8,13 @@ This project demonstrates data visualisation and interactivity in Excel. Using P
 - Added slicers for user-controlled filtering (region, sub-region, category, etc.).
 - Designed a clean, interactive dashboard sheet combining all visuals in one place.
 - Followed structured project instructions to simulate a real business reporting scenario.
+<br>
 
 ## Key Insights
 - Clear sales leaders emerged in certain regions and segments.
 - Slicers made it easy to isolate performance by category and region.
 - Excel’s built-in tools are more powerful than most people think, it’s possible to create dashboard-style interactivity without external software like Tableau or PowerBI, though without the polish and flexibility they offer.
+<br>
 
 ## Tools
 **Excel:** PivotTables, PivotCharts, Slicers, Dashboard Design.
